@@ -1,0 +1,50 @@
+---
+title: "“Gədəbəy, Qoşa, Ordubad qrupu (Piyazbaşı, Ağyurd, Şəkərdərə, Kələki), Söyüdlü, Qızılbulaq və Vejnəli perspektiv qızıl filiz yataqlarının kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Azərbaycan Respublikasının “Azərqızıl” Dövlət Şirkəti ilə R.V. Investment Group Services, LLC ABŞ arasında bağlanmış Sazişdə Dəyişiklik” sənədinin qəbul və təsdiq edilməsi, həyata keçirilməsinə icazə verilməsi barədə"
+identifier: "558-VIQ"
+eqanun_id: 49913
+type: act
+document_type: "Qanunlar"
+jurisdiction: az
+language: az
+date: 2022-06-28
+entry_into_force: 2022-07-06
+register_code: "12202206280558"
+status_text: "Qüvvədədir"
+status: in_force
+publication: "Azərbaycan Qəzeti: 06.07.2022, 141, 31.07.2022; 7, 706"
+source: "https://e-qanun.az/framework/49913"
+source_html: "https://e-qanun.az/frameworks/49/f_49913.html"
+retrieved: 2026-10-12
+---
+
+# “Gədəbəy, Qoşa, Ordubad qrupu (Piyazbaşı, Ağyurd, Şəkərdərə, Kələki), Söyüdlü, Qızılbulaq və Vejnəli perspektiv qızıl filiz yataqlarının kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Azərbaycan Respublikasının “Azərqızıl” Dövlət Şirkəti ilə R.V. Investment Group Services, LLC ABŞ arasında bağlanmış Sazişdə Dəyişiklik” sənədinin qəbul və təsdiq edilməsi, həyata keçirilməsinə icazə verilməsi barədə
+
+“Gədəbəy, Qoşa, Ordubad qrupu (Piyazbaşı, Ağyurd, Şəkərdərə, Kələki), Söyüdlü, Qızılbulaq və Vejnəli perspektiv qızıl filiz yataqlarının kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Azərbaycan Respublikasının “Azərqızıl” Dövlət Şirkəti ilə R.V. Investment Group Services, LLC ABŞ arasında bağlanmış Sazişdə Dəyişiklik” sənədinin qəbul və təsdiq edilməsi, həyata keçirilməsinə icazə verilməsi barədə
+
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+
+“Gədəbəy, Qoşa, Ordubad qrupu (Piyazbaşı, Ağyurd, Şəkərdərə, Kələki), Söyüdlü, Qızılbulaq və Vejnəli perspektiv qızıl filiz yataqlarının kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Azərbaycan Respublikasının “Azərqızıl” Dövlət Şirkəti ilə R.V. Investment Group Services, LLC ABŞ arasında Saziş (bundan sonra - Saziş) 1997-ci il avqustun 20-də bağlanmış və Azərbaycan Respublikasının 1998-ci il 17 mart tarixli 456-IQ nömrəli Qanunu ilə qəbul və təsdiq edilmiş, onun həyata keçirilməsinə icazə verilmişdir.
+
+Sazişin müvafiq şərtlərinə uyğun olaraq, Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi ilə R.V. Investment Group Services, LLC ABŞ arasında 2022-ci il iyunun 20-də Bakı şəhərində “Gədəbəy, Qoşa, Ordubad qrupu (Piyazbaşı, Ağyurd, Şəkərdərə, Kələki), Söyüdlü, Qızılbulaq və Vejnəli perspektiv qızıl filiz yataqlarının kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Azərbaycan Respublikasının “Azərqızıl” Dövlət Şirkəti ilə R.V. Investment Group Services, LLC ABŞ arasında bağlanmış Sazişdə Dəyişiklik” imzalanmışdır.
+
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 95-ci maddəsinin I hissəsinin 4-cü bəndini rəhbər tutaraq qərara alır:
+
+1. Azərbaycan Respublikasının Ekologiya və Təbii Sərvətlər Nazirliyi ilə R.V. Investment Group Services, LLC ABŞ arasında imzalanmış “Gədəbəy, Qoşa, Ordubad qrupu (Piyazbaşı, Ağyurd, Şəkərdərə, Kələki), Söyüdlü, Qızılbulaq və Vejnəli perspektiv qızıl filiz yataqlarının kəşfiyyatı, işlənməsi və hasilatın pay bölgüsü haqqında Azərbaycan Respublikasının “Azərqızıl” Dövlət Şirkəti ilə R.V. Investment Group Services, LLC ABŞ arasında bağlanmış Sazişdə Dəyişiklik” (bundan sonra - “Dəyişiklik”) qəbul və təsdiq edilsin, onun həyata keçirilməsinə icazə verilsin.
+
+2. Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən Sazişdə iştirak edən Podratçıya verilən Azərbaycan Respublikası Hökumətinin təminatı və öhdəlikləri (bundan sonra – “Hökumət təminatı”) qəbul edilsin və onların həyata keçirilməsinə icazə verilsin.
+
+3. Bu Qanun qüvvəyə mindikdən sonra Dəyişiklik Qanun olur. Dəyişiklik, onun qüvvəyə minməsindən irəli gələn bütün hüquqi nəticələri ilə Sazişin ayrılmaz hissəsi olur.
+
+4. Saziş, Dəyişiklik ilə əlavə və dəyişiklik edilmiş şəkildə tam hüquqi qüvvəyə malik olmağa davam edir və Azərbaycan Respublikasının Qanunu olaraq tam qüvvəsini saxlayır.
+
+5. Bu Qanun qüvvəyə mindikdən sonra Hökumət təminatı Qanun olur. Sazişdə konkret surətdə başqa hallar göstərilməyibsə, Hökumət təminatı Sazişin qüvvədə olduğu müddət ərzində Hökumət təminatına uyğun gəlməyən və ya zidd olan Azərbaycan Respublikasının hər hansı başqa mövcud və ya qəbul oluna biləcək qanunlarının, fərmanlarının, yaxud inzibati sərəncamlarının (və ya onların hissələrinin) müddəalarından üstün tutulur.
+
+6. Bu Qanun qüvvəyə mindikdən sonra Podratçının (və ya onun hüquq varislərinin) Hökumət təminatı üzrə əldə etdiyi hüquqlar və mənafelər Podratçının qabaqcadan razılığı olmadan dəyişdirilə, düzəldilə və ya azaldıla bilməz.
+
+İlham ƏLİYEV,
+
+Azərbaycan Respublikasının Prezidenti
+
+Bakı şəhəri, 28 iyun 2022-ci il
+
+№ 558-VIQ

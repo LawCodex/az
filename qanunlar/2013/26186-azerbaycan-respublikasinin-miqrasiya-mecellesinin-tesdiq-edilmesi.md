@@ -1,0 +1,50 @@
+---
+title: "Azərbaycan Respublikasının Miqrasiya Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə haqqında"
+identifier: "713-IVQ"
+eqanun_id: 26186
+type: act
+document_type: "Qanunlar"
+jurisdiction: az
+language: az
+date: 2013-07-02
+entry_into_force: 2013-08-01
+register_code: "12201307020713"
+status_text: "Qüvvədədir"
+status: in_force
+publication: "Respublika Qəzeti: 10-07-2013, 147, 31-07-2013; 07, 797"
+source: "https://e-qanun.az/framework/26186"
+source_html: "https://e-qanun.az/frameworks/26/f_26186.html"
+retrieved: 2026-10-12
+---
+
+# Azərbaycan Respublikasının Miqrasiya Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə haqqında
+
+**Azərbaycan Respublikasının Miqrasiya Məcəlləsinin təsdiq edilməsi, qüvvəyə minməsi və bununla bağlı hüquqi tənzimləmə haqqında**
+
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
+
+Azərbaycan Respublikasının Milli Məclisi Azərbaycan Respublikası Konstitusiyasının 94-cü maddəsinin I hissəsinin 1-ci və 21-ci bəndlərini rəhbər tutaraq qərara alır:
+
+## Maddə 1. Azərbaycan Respublikasının Miqrasiya Məcəlləsi təsdiq edilsin.
+
+## Maddə 2. Azərbaycan Respublikasında qüvvədə olan qanunlar və digər normativ hüquqi aktlar bu Qanunla təsdiq edilmiş Azərbaycan Respublikasının Miqrasiya Məcəlləsinə uyğunlaşdırılanadək həmin Məcəlləyə zidd olmayan hissədə tətbiq edilir.
+
+## Maddə 3. Azərbaycan Respublikasının Miqrasiya Məcəlləsi qüvvəyə mindiyi gündən aşağıdakı qanunlar ləğv edilir:
+
+3.1. "Əcnəbilərin və vətəndaşlığı olmayan şəxslərin hüquqi vəziyyəti haqqında" Azərbaycan Respublikasının 1996-cı il 13 mart tarixli 41-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1997, № 1, maddə 19; 2001, № 11, maddələr 676, 695, 699; 2002, № 5, maddə 243, № 12, maddə 692; 2004, № 1, maddə 10, № 2, maddə 57; 2006, № 1, maddə 3; 2007, № 5, maddə 398; 2008, № 8, maddə 701; 2010, № 4, maddə 265; 2011, №2, maddə 71);
+
+3.2. “İmmiqrasiya haqqında” Azərbaycan Respublikasının 1998-ci il 22 dekabr tarixli 592-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 1999, № 3, maddə 156; 2001, № 11, maddələr 676, 695; 2004, № 2, maddə 57, № 7, maddə 505; 2007, № 11, maddə 1053; 2008, № 8, maddə 701; 2009, №3, maddə 160, №7, maddə 519, № 12, maddə 966);
+
+3.3. "Əmək miqrasiyası haqqında" Azərbaycan Respublikasının 1999-cu il 28 oktyabr tarixli 724-IQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2000, № 1, maddə 3; 2007, № 10, maddə 938; 2008, № 10, maddə 886; 2009, № 7, maddə 519);
+
+3.4. “Əcnəbilərin və vətəndaşlığı olmayan şəxslərin Azərbaycan Respublikasının ərazisindən tranzit keçidi qaydaları haqqında Əsasnamə”nin təsdiq edilməsi barədə” Azərbaycan Respublikasının 2002-ci il 27 dekabr tarixli 414-IIQ nömrəli Qanunu (Azərbaycan Respublikasının Qanunvericilik Toplusu, 2003, № 2, maddə 80; 2007, № 5, maddə 438).
+
+## Maddə 4. Bu Qanun 2013-cü il avqustun 1-dən qüvvəyə minir.
+
+İlham ƏLİYEV,
+
+Azərbaycan Respublikasının Prezidenti
+
+Bakı şəhəri, 2 iyul 2013-cü il
+
+№ 713-IVQ
